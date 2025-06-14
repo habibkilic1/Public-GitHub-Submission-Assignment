@@ -1,0 +1,19 @@
+body {
+    background-color: #e6f2ff;
+    font-family: 'Verdana', sans-serif;
+}
+header {
+    background-color: #005f73;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+main {
+    padding: 25px;
+}
+footer {
+    background-color: #0a9396;
+    color: white;
+    text-align: center;
+    padding: 12px;
+}
